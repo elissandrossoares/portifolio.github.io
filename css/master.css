@@ -949,7 +949,7 @@ svg {
       display: none;
     }
   #mobile i{
-  position: absolute;
+  position: fixed;
       z-index: 2;
       right: 11px;
       font-size: 43px;
