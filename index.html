@@ -358,7 +358,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <button class="close">&times;</button>
-            <form class="formulariocoment" action="" method="post" enctype="multipart/form-data">
+            <form class="formulariocoment">
                <label for='realupload'> <h4>Adicione uma foto</h4>
                <div class="area-blah">
                  <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" id="blah">
@@ -437,7 +437,7 @@
         <div class="box-form">
           <div id="alerta-danger"></div>
           <div id="alerta-sucess"></div>
-          <form class="ajax-form" action="#" method="post">
+          <form class="ajax-form">
           <input type="text" required name="nome" value="" placeholder="Nome">
           <input type="email" required name="email" value="" placeholder="Email">
           <input type="text" required name="assunto" value="" placeholder="Assunto">
@@ -489,10 +489,8 @@
     </div>
   </section>
   <footer class="footer">
-    <?php
-    $data = Date('Y');
-    ?>
-      Todos os direitos reservados ® <?php echo $data; ?>
+   
+      Todos os direitos reservados ® 2020
   </footer>
     </body>
   </html>
