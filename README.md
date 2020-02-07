@@ -1,3 +1,6 @@
 # Portifólio
-- <p>O portifólio está totalmente estático, as funcionalidades de comentários e contato estão desativados</p>
- <a href="https://ellissandro.github.io/portifolio.github.io">Acessar</a>
+- Portifólio totalmente estático: 
+ <a href="https://ellissandro.github.io/portifolio.github.io">Acessar com Github Pages</a>
+ - Portifólio completo 
+ <a href="http://subs.dukebr.com/elissandro/">Outro</a>
+ 
