@@ -1,6 +1,6 @@
 # Portifólio
 
- <a href="https://elissandrossoares.github.io/portifolio.github.io/">Acessar</a>
+ <a target="_blank" href="https://elissandrossoares.github.io/portifolio.github.io/">Acessar</a>
 
  
  
